@@ -1,0 +1,19 @@
+body
+    {
+        padding-top:50px;
+    }
+
+
+.jumbotron
+        {
+            
+            height: 100%;
+            background-color:tomato !important; 
+        }
+
+        
+.form-group
+        {
+            padding-left: 60px;
+            width:90%;
+        }
